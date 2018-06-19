@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+#header {
+    background: #ffffff;
+}
+
+#header-img {
+    background: #ffffff;
+}
+
+#nav-bar {
+    background: #ffffff;
+}
+
+.nav-link {
+    background: #ffffff;
+    font-weight: 600;
+}
+
+#video {
+    background: #ffffff;
+}
+
+#email {
+    background: #ffffff;
+}
